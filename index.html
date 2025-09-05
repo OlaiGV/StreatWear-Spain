@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>StreatWear</title>
+    <link rel="stylesheet" href="./CSS/landing.css" />
+    <script type="module" src="./JS/script.js"></script>
+  </head>
+  <body>
+    <div class="container-principal">
+      <header></header>
+
+      <main>
+        <article class="brands">
+          <div class="brand-card-item" data-brand-name="Becay">
+            <img src="./RESOURCES/images/becay/logo.png" alt="Becay" />
+            <figcaption>
+              <h2>Becay</h2>
+              <strong><p>Crafted to Inspire</p></strong>
+            </figcaption>
+            <a href="./HTML/brands.html" class="btn"></a>
+          </div>
+
+          <div class="brand-card-item" data-brand-name="Cold Culture">
+            <img
+              src="./RESOURCES/images/cold-culture/logo.png"
+              alt="Cold Culture"
+            />
+            <figcaption>
+              <h2>Cold Culture</h2>
+              <strong><p>Culture in Every Thread</p></strong>
+            </figcaption>
+            <a href="./HTML/brands.html" class="btn"></a>
+          </div>
+
+          <div class="brand-card-item" data-brand-name="Eme Studios">
+            <img
+              src="./RESOURCES/images/eme-studios/eme_studios_logo.jpg"
+              alt="Eme Studio"
+            />
+            <figcaption>
+              <h2>Eme Studio</h2>
+              <strong><p>Always Grateful</p></strong>
+            </figcaption>
+            <a href="./HTML/brands.html" class="btn"></a>
+          </div>
+
+          <div class="brand-card-item" data-brand-name="Fake Gods">
+            <img src="./RESOURCES/images/fake-gods/logo.png" alt="Fake Gods" />
+            <figcaption>
+              <h2>Fake Gods</h2>
+              <strong><p>Challenge the Ordinary</p></strong>
+            </figcaption>
+            <a href="./HTML/brands.html" class="btn"></a>
+          </div>
+
+          <div class="brand-card-item" data-brand-name="Milfshakes">
+            <img
+              src="./RESOURCES/images/milfshakes/logo.png"
+              alt="M***Shakes"
+            />
+            <figcaption>
+              <h2>Milfshakes</h2>
+              <strong><p>Random Made Iconic</p></strong>
+            </figcaption>
+            <a href="./HTML/brands.html" class="btn"></a>
+          </div>
+
+          <div class="brand-card-item" data-brand-name="Nude Project">
+            <img
+              src="./RESOURCES/images/nude-project/logo.png"
+              alt="Nude Project"
+            />
+            <figcaption>
+              <h2>Nude Project</h2>
+              <strong><p>Creativity in Motion</p></strong>
+            </figcaption>
+            <a href="./HTML/brands.html" class="btn"></a>
+          </div>
+
+          <div class="brand-card-item" data-brand-name="Scrapworld">
+            <img
+              src="./RESOURCES/images/scrapworld/logo.png"
+              alt="ScrapWorld"
+            />
+            <figcaption>
+              <h2>ScrapWorld</h2>
+              <strong><p>Streetwear Without Limits</p></strong>
+            </figcaption>
+            <a href="./HTML/brands.html" class="btn"></a>
+          </div>
+
+          <div class="brand-card-item" data-brand-name="Scuffers">
+            <img src="./RESOURCES/images/scuffers/logo.jpg" alt="Scuffers" />
+            <figcaption>
+              <h2>Scuffers</h2>
+              <strong><p>Everyday Urban Aesthetics</p></strong>
+            </figcaption>
+            <a href="./HTML/brands.html" class="btn"></a>
+          </div>
+
+          <div class="brand-card-item" data-brand-name="Two Jeys">
+            <img src="./RESOURCES/images/two-jeys/logo.png" alt="Two Jeys" />
+            <figcaption>
+              <h2>Two Jeys</h2>
+              <strong><p>Unapologetically Bold</p></strong>
+            </figcaption>
+            <a href="./HTML/brands.html" class="btn"></a>
+          </div>
+
+          <div class="brand-card-item" data-brand-name="Yusux">
+            <img src="./RESOURCES/images/yusux/logo.png" alt="Yusux" />
+            <figcaption>
+              <h2>Yusux</h2>
+              <strong><p>Own Your Edge</p></strong>
+            </figcaption>
+            <a href="./HTML/brands.html" class="btn"></a>
+          </div>
+        </article>
+      </main>
+    </div>
+    <script>
+      document.querySelectorAll(".brand-card-item").forEach((card) => {
+        card.addEventListener("click", () => {
+          localStorage.setItem("selectedBrand", card.dataset.brandName);
+          window.location.href = "HTML/brands.html";
+        });
+      });
+    </script>
+  </body>
+</html>

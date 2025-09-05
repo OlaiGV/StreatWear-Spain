@@ -1,0 +1,464 @@
+@import url(./brand-comun.css);
+
+/* ********************************************************* */
+/* BECAY BRAND */
+/* ********************************************************* */
+.collage[data-marca="becay"] img:nth-child(1) {
+  grid-column: 1;
+  grid-row: 1;
+  filter: brightness(90%);
+}
+
+.collage[data-marca="becay"] img:nth-child(2) {
+  grid-column: 2;
+  grid-row: 1;
+  filter: brightness(80%);
+}
+
+.collage[data-marca="becay"] img:nth-child(3) {
+  grid-column: 2;
+  grid-row: 2;
+  height: 250px;
+  filter: brightness(90%);
+}
+
+.collage[data-marca="becay"] img:nth-child(4) {
+  grid-column: 1;
+  grid-row: 2;
+  filter: brightness(80%);
+  border-radius: 15px;
+  height: 250px;
+}
+
+.collage[data-marca="becay"] img:nth-child(5) {
+  grid-column: 3;
+  grid-row: 2;
+  border-radius: 15px;
+  filter: brightness(80%);
+  height: 250px;
+}
+
+.collage[data-marca="becay"] img:nth-child(6) {
+  grid-column: 3;
+  grid-row: 1;
+  filter: brightness(80%);
+  height: 190px;
+}
+
+/* ********************************************************* */
+/* COLD CULTURE BRAND */
+/* ********************************************************* */
+.collage[data-marca="cold culture"] img:nth-child(1) {
+  grid-column: 1;
+  grid-row: 1;
+  transform: rotate(-5deg);
+  filter: brightness(90%);
+}
+
+.collage[data-marca="cold culture"] img:nth-child(2) {
+  grid-column: 3;
+  grid-row: 2;
+  filter: brightness(80%);
+  transform: rotate(5deg);
+}
+
+.collage[data-marca="cold culture"] img:nth-child(3) {
+  grid-column: 1;
+  grid-row: 2;
+  filter: brightness(90%);
+}
+
+.collage[data-marca="cold culture"] img:nth-child(4) {
+  grid-column: 3;
+  grid-row: 1;
+  filter: brightness(80%);
+  height: 250px;
+  transform: rotate(2.5deg);
+}
+
+.collage[data-marca="cold culture"] img:nth-child(5) {
+  grid-column: 2;
+  grid-row: 2;
+  filter: brightness(80%);
+  height: 300px;
+  width: 200px;
+}
+
+.collage[data-marca="cold culture"] img:nth-child(6) {
+  grid-column: 2;
+  grid-row: 1;
+  filter: brightness(80%);
+  transform: rotate(5deg);
+  height: 190px;
+}
+
+/* ********************************************************* */
+/* EME STUDIOS BRAND */
+/* ********************************************************* */
+.collage[data-marca="eme studios"] img:nth-child(1) {
+  grid-column: 1;
+  grid-row: 1;
+  transform: rotate(-5deg);
+  filter: brightness(90%);
+}
+
+.collage[data-marca="eme studios"] img:nth-child(2) {
+  grid-column: 2;
+  grid-row: 1;
+  filter: brightness(80%);
+}
+
+.collage[data-marca="eme studios"] img:nth-child(3) {
+  grid-column: 3;
+  grid-row: 1;
+  height: 250px;
+  filter: brightness(90%);
+}
+
+.collage[data-marca="eme studios"] img:nth-child(4) {
+  grid-column: 1;
+  grid-row: 2;
+  margin-top: 20px;
+  filter: brightness(80%);
+  border-radius: 15px;
+  height: 250px;
+}
+
+.collage[data-marca="eme studios"] img:nth-child(5) {
+  grid-column: 2;
+  grid-row: 2;
+  border-radius: 15px;
+  filter: brightness(80%);
+  height: 200px;
+}
+
+.collage[data-marca="eme studios"] img:nth-child(6) {
+  grid-column: 3;
+  grid-row: 2;
+  filter: brightness(80%);
+  transform: rotate(5deg);
+  height: 190px;
+}
+
+/* ********************************************************* */
+/* FAKE GODS BRAND */
+/* ********************************************************* */
+.collage[data-marca="fake gods"] img:nth-child(1) {
+  grid-column: 1;
+  grid-row: 1;
+  filter: brightness(90%);
+}
+
+.collage[data-marca="fake gods"] img:nth-child(2) {
+  grid-column: 2;
+  grid-row: 1;
+  filter: brightness(80%);
+}
+
+.collage[data-marca="fake gods"] img:nth-child(3) {
+  grid-column: 3;
+  grid-row: 1;
+  filter: brightness(90%);
+  transform: rotate(2.5deg);
+}
+
+.collage[data-marca="fake gods"] img:nth-child(4) {
+  grid-column: 1;
+  grid-row: 2;
+  filter: brightness(80%);
+  border-radius: 15px;
+  height: 300px;
+  transform: rotate(-2.5deg);
+}
+
+.collage[data-marca="fake gods"] img:nth-child(5) {
+  grid-column: 2;
+  grid-row: 2;
+  border-radius: 15px;
+  filter: brightness(80%);
+  height: 250px;
+}
+
+.collage[data-marca="fake gods"] img:nth-child(6) {
+  grid-column: 3;
+  grid-row: 2;
+  filter: brightness(80%);
+  height: 250px;
+}
+
+/* ********************************************************* */
+/* MILFSHAKES BRAND */
+/* ********************************************************* */
+.collage[data-marca="milfshakes"] img:nth-child(1) {
+  grid-column: 1;
+  grid-row: 1;
+  transform: rotate(-5deg);
+  filter: brightness(90%);
+}
+
+.collage[data-marca="milfshakes"] img:nth-child(2) {
+  grid-column: 2;
+  grid-row: 1;
+  filter: brightness(80%);
+  height: 250px;
+}
+
+.collage[data-marca="milfshakes"] img:nth-child(3) {
+  grid-column: 3;
+  grid-row: 1;
+  transform: rotate(5deg);
+  filter: brightness(90%);
+}
+
+.collage[data-marca="milfshakes"] img:nth-child(4) {
+  grid-column: 1;
+  grid-row: 2;
+  margin-top: 20px;
+  filter: brightness(80%);
+  height: 250px;
+}
+
+.collage[data-marca="milfshakes"] img:nth-child(5) {
+  grid-column: 2;
+  grid-row: 2;
+  border-radius: 15px;
+  filter: brightness(80%);
+  height: 200px;
+  z-index: 1;
+}
+
+.collage[data-marca="milfshakes"] img:nth-child(6) {
+  grid-column: 3;
+  grid-row: 2;
+  filter: brightness(80%);
+  height: 250px;
+}
+
+/* ********************************************************* */
+/* NUDE PROJECT BRAND */
+/* ********************************************************* */
+.collage[data-marca="nude project"] img:nth-child(1) {
+  grid-column: 1;
+  grid-row: 1;
+  filter: brightness(90%);
+}
+
+.collage[data-marca="nude project"] img:nth-child(2) {
+  grid-column: 2;
+  grid-row: 1;
+  filter: brightness(80%);
+}
+
+.collage[data-marca="nude project"] img:nth-child(3) {
+  grid-column: 3;
+  grid-row: 1;
+  filter: brightness(90%);
+}
+
+.collage[data-marca="nude project"] img:nth-child(4) {
+  grid-column: 1;
+  grid-row: 2;
+  filter: brightness(80%);
+  transform: rotate(-2.5deg);
+}
+
+.collage[data-marca="nude project"] img:nth-child(5) {
+  grid-column: 2;
+  grid-row: 2;
+  border-radius: 15px;
+  filter: brightness(80%);
+  height: 250px;
+}
+
+.collage[data-marca="nude project"] img:nth-child(6) {
+  grid-column: 3;
+  grid-row: 2;
+  filter: brightness(80%);
+  transform: rotate(2.5deg);
+}
+
+/* ********************************************************* */
+/* SCRAP WORLD BRAND */
+/* ********************************************************* */
+.collage[data-marca="scrapworld"] img:nth-child(1) {
+  grid-column: 1;
+  grid-row: 1;
+  filter: brightness(90%);
+  transform: rotate(-2.5deg);
+  height: 250px;
+}
+
+.collage[data-marca="scrapworld"] img:nth-child(2) {
+  grid-column: 2;
+  grid-row: 1;
+  filter: brightness(80%);
+  height: 200px;
+  width: 195px;
+}
+
+.collage[data-marca="scrapworld"] img:nth-child(3) {
+  grid-column: 3;
+  grid-row: 1;
+  filter: brightness(90%);
+  transform: rotate(2.5deg);
+  height: 250px;
+}
+
+.collage[data-marca="scrapworld"] img:nth-child(4) {
+  grid-column: 1;
+  grid-row: 2;
+  filter: brightness(80%);
+  height: 250px;
+}
+
+.collage[data-marca="scrapworld"] img:nth-child(5) {
+  grid-column: 2;
+  grid-row: 2;
+  border-radius: 15px;
+  filter: brightness(80%);
+  height: 250px;
+}
+
+.collage[data-marca="scrapworld"] img:nth-child(6) {
+  grid-column: 3;
+  grid-row: 2;
+  filter: brightness(85%);
+}
+
+/* ********************************************************* */
+/* SCUFFERS BRAND */
+/* ********************************************************* */
+.collage[data-marca="scuffers"] img:nth-child(1) {
+  grid-column: 1;
+  grid-row: 1;
+  filter: brightness(90%);
+  height: 250px;
+}
+
+.collage[data-marca="scuffers"] img:nth-child(2) {
+  grid-column: 2;
+  grid-row: 1;
+  filter: brightness(80%);
+  height: 250px;
+}
+
+.collage[data-marca="scuffers"] img:nth-child(3) {
+  grid-column: 3;
+  grid-row: 1;
+  transform: rotate(5deg);
+  height: 250px;
+  filter: brightness(90%);
+}
+
+.collage[data-marca="scuffers"] img:nth-child(4) {
+  grid-column: 1;
+  grid-row: 2;
+  filter: brightness(80%);
+  transform: rotate(-2.5deg);
+  height: 250px;
+}
+
+.collage[data-marca="scuffers"] img:nth-child(5) {
+  grid-column: 2;
+  grid-row: 2;
+  filter: brightness(80%);
+  height: 250px;
+}
+
+.collage[data-marca="scuffers"] img:nth-child(6) {
+  grid-column: 3;
+  grid-row: 2;
+  filter: brightness(80%);
+  height: 250px;
+}
+
+/* ********************************************************* */
+/* TWO JEYS BRAND */
+/* ********************************************************* */
+.collage[data-marca="two jeys"] img:nth-child(1) {
+  grid-column: 1;
+  grid-row: 1;
+  filter: brightness(90%);
+  height: 250px;
+}
+
+.collage[data-marca="two jeys"] img:nth-child(2) {
+  grid-column: 2;
+  grid-row: 1;
+  filter: brightness(80%);
+}
+
+.collage[data-marca="two jeys"] img:nth-child(3) {
+  grid-column: 3;
+  grid-row: 1;
+  height: 250px;
+  filter: brightness(90%);
+}
+
+.collage[data-marca="two jeys"] img:nth-child(4) {
+  grid-column: 1;
+  grid-row: 2;
+  filter: brightness(80%);
+  transform: rotate(-2.5deg);
+  height: 250px;
+}
+
+.collage[data-marca="two jeys"] img:nth-child(5) {
+  grid-column: 2;
+  grid-row: 2;
+  filter: brightness(80%);
+  height: 250px;
+}
+
+.collage[data-marca="two jeys"] img:nth-child(6) {
+  grid-column: 3;
+  grid-row: 2;
+  filter: brightness(80%);
+  transform: rotate(2.5deg);
+}
+
+/* ********************************************************* */
+/* YUSUX BRAND */
+/* ********************************************************* */
+.collage[data-marca="yusux"] img:nth-child(1) {
+  grid-column: 1;
+  grid-row: 1;
+  filter: brightness(90%);
+  height: 250px;
+}
+
+.collage[data-marca="yusux"] img:nth-child(2) {
+  grid-column: 2;
+  grid-row: 2;
+  height: 250px;
+  filter: brightness(80%);
+}
+
+.collage[data-marca="yusux"] img:nth-child(3) {
+  grid-column: 3;
+  grid-row: 1;
+  filter: brightness(90%);
+  height: 250px;
+}
+
+.collage[data-marca="yusux"] img:nth-child(4) {
+  grid-column: 2;
+  grid-row: 1;
+  filter: brightness(80%);
+  height: 250px;
+}
+
+.collage[data-marca="yusux"] img:nth-child(5) {
+  grid-column: 1;
+  grid-row: 2;
+  filter: brightness(80%);
+  height: 250px;
+}
+
+.collage[data-marca="yusux"] img:nth-child(6) {
+  grid-column: 3;
+  grid-row: 2;
+  filter: brightness(80%);
+  height: 250px;
+}
+

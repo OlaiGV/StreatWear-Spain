@@ -1,0 +1,54 @@
+header {
+  background-image: url("../RESOURCES/images/vogue.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 300px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+  position: sticky;
+  top: -180px;
+  z-index: 3;
+}
+
+.logo-menu {
+  height: 80px;
+  width: 100%;
+  background-color: var(--color-fondo-caja);
+  border: 3px solid #efefef;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 3;
+}
+
+header .logo-menu .logo {
+  color: var(--color-gris-claro);
+  font-size: 2.3em;
+  margin-left: 20px;
+  font-family: var(--fuente-logo);
+}
+
+header .logo-menu .logo h1 span {
+  display: inline-block;
+  font-family: var(--fuente-logo-span);
+  font-weight: bold;
+  padding: 20px;
+  cursor: pointer;
+}
+
+.down {
+  color: var(--color-principal);
+  border-bottom: 5px solid var(--color-orange);
+}
+
+.up {
+  color: var(--color-orange);
+  border-top: 5px solid var(--color-principal);
+}
+

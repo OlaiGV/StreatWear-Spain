@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Becay",
+    "description": "Becay is a brand that embodies creativity and self-expression. Our designs are crafted to inspire and empower individuals to embrace their unique style.",
+    "images": [
+      "../RESOURCES/images/becay/1.jpg",
+      "../RESOURCES/images/becay/2.jpg",
+      "../RESOURCES/images/becay/3.jpg",
+      "../RESOURCES/images/becay/4.jpg",
+      "../RESOURCES/images/becay/5.jpg",
+      "../RESOURCES/images/becay/6.jpg"
+    ]
+  },
+
+  {
+    "name": "Cold Culture",
+    "description": "Cold Culture is a brand that represents the fusion of urban aesthetics and contemporary fashion. Our collections are designed for those who dare to stand out.",
+    "images": [
+      "../RESOURCES/images/cold-culture/1.jpg",
+      "../RESOURCES/images/cold-culture/2.jpg",
+      "../RESOURCES/images/cold-culture/3.jpg",
+      "../RESOURCES/images/cold-culture/4.jpg",
+      "../RESOURCES/images/cold-culture/5.jpg",
+      "../RESOURCES/images/cold-culture/6.jpg"
+    ]
+  },
+
+  {
+    "name": "Eme Studios",
+    "description": "Eme Studios is a brand that focuses on minimalist designs and sustainable fashion. We believe in creating timeless pieces that are both stylish and eco-friendly.",
+    "images": [
+      "../RESOURCES/images/eme-studios/1.jpg",
+      "../RESOURCES/images/eme-studios/2.jpg",
+      "../RESOURCES/images/eme-studios/3.jpg",
+      "../RESOURCES/images/eme-studios/4.jpg",
+      "../RESOURCES/images/eme-studios/5.jpg",
+      "../RESOURCES/images/eme-studios/6.jpg"
+    ]
+  },
+
+  {
+    "name": "Fake Gods",
+    "description": "Fake Gods is a brand that challenges the norms of fashion and self-expression. We create bold, statement pieces for those who dare to be different.",
+    "images": [
+      "../RESOURCES/images/fake-gods/1.jpg",
+      "../RESOURCES/images/fake-gods/2.jpg",
+      "../RESOURCES/images/fake-gods/3.jpg",
+      "../RESOURCES/images/fake-gods/4.jpg",
+      "../RESOURCES/images/fake-gods/5.jpg",
+      "../RESOURCES/images/fake-gods/6.jpg"
+    ]
+  },
+
+  {
+    "name": "Milfshakes",
+    "description": "Milfshakes is a brand that focuses on bold designs and playful aesthetics. We believe in creating fun, eye-catching pieces that make a statement.",
+    "images": [
+      "../RESOURCES/images/milfshakes/1.jpg",
+      "../RESOURCES/images/milfshakes/2.jpg",
+      "../RESOURCES/images/milfshakes/3.jpg",
+      "../RESOURCES/images/milfshakes/4.jpg",
+      "../RESOURCES/images/milfshakes/5.jpg",
+      "../RESOURCES/images/milfshakes/6.jpg"
+    ]
+  },
+
+  {
+    "name": "Nude Project",
+    "description": "Nude Project is a brand that focuses on bold designs and playful aesthetics. We believe in creating fun, eye-catching pieces that make a statement.",
+    "images": [
+      "../RESOURCES/images/nude-project/imagen1.jpg",
+      "../RESOURCES/images/nude-project/imagen2.jpg",
+      "../RESOURCES/images/nude-project/imagen3.jpg",
+      "../RESOURCES/images/nude-project/imagen4.jpg",
+      "../RESOURCES/images/nude-project/imagen5.jpg",
+      "../RESOURCES/images/nude-project/imagen6.jpg"
+    ]
+  },
+
+  {
+    "name": "Scrapworld",
+    "description": "Scrapworld is a brand that focuses on bold designs and playful aesthetics. We believe in creating fun, eye-catching pieces that make a statement.",
+    "images": [
+      "../RESOURCES/images/scrapworld/imagen1.jpg",
+      "../RESOURCES/images/scrapworld/imagen2.jpg",
+      "../RESOURCES/images/scrapworld/imagen3.jpg",
+      "../RESOURCES/images/scrapworld/imagen4.jpg",
+      "../RESOURCES/images/scrapworld/imagen5.jpg",
+      "../RESOURCES/images/scrapworld/imagen6.jpg"
+    ]
+  },
+
+  {
+    "name": "Scuffers",
+    "description": "Scuffers is a brand that captures the essence of street culture and urban lifestyle. Our designs are bold, edgy, and perfect for those who live life on their own terms.",
+    "images": [
+      "../RESOURCES/images/scuffers/imagen1.jpg",
+      "../RESOURCES/images/scuffers/imagen2.jpg",
+      "../RESOURCES/images/scuffers/imagen3.jpg",
+      "../RESOURCES/images/scuffers/imagen4.jpg",
+      "../RESOURCES/images/scuffers/imagen5.jpg",
+      "../RESOURCES/images/scuffers/imagen6.jpg"
+    ]
+  },
+
+  {
+    "name": "Two Jeys",
+    "description": "Two Jeys is a brand that represents the fusion of art and fashion. Our pieces are designed for those who appreciate creativity and individuality.",
+    "images": [
+      "../RESOURCES/images/two-jeys/1.jpg",
+      "../RESOURCES/images/two-jeys/2.jpg",
+      "../RESOURCES/images/two-jeys/3.jpg",
+      "../RESOURCES/images/two-jeys/4.jpg",
+      "../RESOURCES/images/two-jeys/5.jpg",
+      "../RESOURCES/images/two-jeys/6.jpg"
+    ]
+  },
+
+  {
+    "name": "Yusux",
+    "description": "Yusux is a brand that embodies creativity and self-expression. Our designs are crafted to inspire and empower individuals to embrace their unique style.",
+    "images": [
+      "../RESOURCES/images/yusux/imagen1.jpg",
+      "../RESOURCES/images/yusux/imagen3.jpg",
+      "../RESOURCES/images/yusux/imagen4.jpg",
+      "../RESOURCES/images/yusux/imagen5.jpg",
+      "../RESOURCES/images/yusux/imagen6.jpg"
+    ]
+  }
+]
